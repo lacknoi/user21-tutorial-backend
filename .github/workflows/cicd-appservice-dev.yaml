@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: dev
-      url: https://github.com/<owner>/<username>-tutorial-backend/security/code-scanning
+      url: https://github.com/lacknoi/user21-tutorial-backend/security/code-scanning
     permissions:
       actions: read
       contents: read
